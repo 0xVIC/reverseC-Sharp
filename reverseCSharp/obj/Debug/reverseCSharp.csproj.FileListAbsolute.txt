@@ -1,0 +1,5 @@
+C:\Users\VIC\source\repos\reverseCSharp\reverseCSharp\bin\Debug\reverseCSharp.exe
+C:\Users\VIC\source\repos\reverseCSharp\reverseCSharp\bin\Debug\reverseCSharp.pdb
+C:\Users\VIC\source\repos\reverseCSharp\reverseCSharp\obj\Debug\reverseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\VIC\source\repos\reverseCSharp\reverseCSharp\obj\Debug\reverseCSharp.exe
+C:\Users\VIC\source\repos\reverseCSharp\reverseCSharp\obj\Debug\reverseCSharp.pdb
